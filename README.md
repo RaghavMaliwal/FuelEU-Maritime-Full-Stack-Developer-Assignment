@@ -10,6 +10,19 @@ This platform implements a Fuel EU Maritime compliance dashboard with:
 - **Banking (Article 20)**: Bank surplus compliance balance and apply to deficits
 - **Pooling (Article 21)**: Create compliance pools to balance deficits across multiple ships
 
+## Screenshots
+
+Here’s a quick visual walkthrough of the Fuel EU Maritime Compliance Platform:
+
+| Tab | Screenshot |
+|-----|-------------|
+| **Routes Management** | ![Routes Tab](./screenshots/routes_tab.png) |
+| **Comparison Analysis** | ![Comparison Tab](./screenshots/comparison_tab.png) |
+| **Banking (Article 20)** | ![Banking Tab](./screenshots/banking_tab.png) |
+| **Pooling (Article 21)** | ![Pooling Tab](./screenshots/pooling_tab.png) |
+
+Each tab provides an interactive interface to view, compare, and manage compliance data efficiently.
+
 ## Architecture
 
 The application follows **Hexagonal Architecture (Ports & Adapters)** pattern:
